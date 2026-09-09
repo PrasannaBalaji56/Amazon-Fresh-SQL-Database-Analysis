@@ -204,13 +204,4 @@ The relational structure allows product reviews to be connected with both custom
 
 ---
 
-## 🧮 Window Functions
 
-The project uses the `RANK()` window function to rank customers according to their total spending.
-
-Example concept:
-
-```sql
-RANK() OVER (
-    ORDER BY SUM(orderamount) DESC
-)
