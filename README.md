@@ -206,6 +206,7 @@ The relational structure allows product reviews to be connected with both custom
 
 ## dashboard 
 
-<img width="1150" height="649" alt="Screenshot 2026-09-02 230332" src="https://github.com/user-attachments/assets/da17e3df-617a-412c-bdbb-48ae8f8f1c15" />
-<img width="1146" height="648" alt="Screenshot 2026-09-02 230340" src="https://github.com/user-attachments/assets/9ec1c97f-bba3-4f69-93d3-ab3b122881a7" />
-<img width="1149" height="648" alt="Screenshot 2026-09-02 230308" src="https://github.com/user-attachments/assets/9e1cb9a4-05d5-4a75-ae17-65f90d82b944" />
+<img width="1150" height="649" alt="Screenshot 2026-09-02 230332" src="https://github.com/user-attachments/assets/37f66590-a501-40f9-bd82-a03332eb8fdc" />
+<img width="1146" height="648" alt="Screenshot 2026-09-02 230340" src="https://github.com/user-attachments/assets/35f7a05d-d22a-48fb-872d-2520851ad967" />
+<img width="1149" height="648" alt="Screenshot 2026-09-02 230308" src="https://github.com/user-attachments/assets/93503f09-f481-4956-a455-adca489cb4a4" />
+
